@@ -1,14 +1,7 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/headshot.jpg"
+imageAlt: "My personal photo"
 ---
 
-Hello! is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+My name is Jae Young Seo. I am a Computer Science and Mathematics with an emphasis on Statistics double major attending Vassar College. I'm most interested in full-stack development but open to exploring other career paths. I am seeking Summer 2023 internship opportunities to gain the valuable experience I need to grow in the ever-changing tech world.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
