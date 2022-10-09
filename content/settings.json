@@ -1,17 +1,17 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://jaeyoungseo.com/",
+    "title": "Jae Young Seo",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "Jae Young Seo",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "github": "https://github.com/konstantinmuenster",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/Jae-YS",
+      "linkedin": "https://www.linkedin.com/in/jae-young-seo/",
+      "mail": "jae.jy.seo@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Jae_Young_Seo_2022_Resume.pdf"
       },
       "footer": [
 
