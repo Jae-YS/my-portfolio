@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Jae Young Seo",
+  "email": "",
+  "description": "Contact me either by the methods below or via phone: (518) 650-5837.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/photo.jpeg",
+    "alt": "Vassar Track and Field headshot"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
