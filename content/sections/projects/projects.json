@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Game",
       "title": "Tictactoe",
-      "description": "Developed an interactive one or two player tictactoe game implementing the themes of Object-Oriented Programming.",
+      "description": "Developed an interactive one or two player tictactoe game implementing the concepts of Object-Oriented Programming.",
       "tags": ["Java", "Object-Oriented Programming"],
       "image": {
         "src": "../../images/tictactoe.jpeg",

@@ -7,5 +7,5 @@ My name is Jae Young Seo. I am a Computer Science and Mathematics with an emphas
 
 Some funfacts!
 
-I am on the Vassar Men's Track and Field team
+I am on the Vassar Men's Track and Field team's
 
