@@ -3,7 +3,7 @@ imageSrc: "../../images/headshot.png"
 imageAlt: "My personal photo"
 ---
 
-I am a Computer Science and Mathematics with an emphasis on Statistics double major attending Vassar College. I am currently a sophomore interested in full-stack development or backend development but open to exploring other career paths. I am seeking Summer 2023 internship opportunities to gain the valuable experience I need to grow in the ever-changing tech world.
+I am a Computer Science and Mathematics with an emphasis on Statistics double major attending Vassar College. I am currently a sophomore interested in full-stack development or backend development, but open to exploring other career paths. I am seeking Summer 2023 internship opportunities to gain the valuable experience I need to grow in the ever-changing tech world.
  
 Some fun facts about me!
  
