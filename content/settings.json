@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Jae Young Seo",
     "author": "Jae Young Seo",
-    "avatar": "../content/images/android-chrome-512x512.png",
+    "icon": "../content/images/android-chrome-512x512.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "github": "https://github.com/Jae-YS",
