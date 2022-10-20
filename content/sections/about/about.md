@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/headshot.png"
+imageSrc: "../../images/IMG_6208.png"
 imageAlt: "My personal photo"
 ---
 
