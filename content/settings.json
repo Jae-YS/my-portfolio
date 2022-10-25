@@ -7,7 +7,7 @@
     "titleTemplate": "%s ·  Portfolio",
     "description": "",
     "author": "Jae Young Seo",
-    "avatar": "",
+    "avatar": "./content/images/favicon.png",
     "bio": "",
     "social": {
       "github": "https://github.com/Jae-YS",
