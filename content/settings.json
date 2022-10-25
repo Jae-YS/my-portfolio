@@ -2,11 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://jaeyoungseo.com/",
+    "thumbnail": "../../images/IMG_6208.png",
     "title": "Jae Young Seo",
-    "titleTemplate": "My Portfolio",
+    "titleTemplate": "%s ·  Portfolio",
     "description": "",
     "author": "Jae Young Seo",
-    "avatar": "../content/images/android-chrome-512x512.png",
+    "avatar": "",
     "bio": "",
     "social": {
       "github": "https://github.com/Jae-YS",
